@@ -1,4 +1,8 @@
 Sample document
 Changes 1
 Changes 2
+<<<<<<< HEAD
 Changes in Staging
+=======
+Change in Fork
+>>>>>>> master
