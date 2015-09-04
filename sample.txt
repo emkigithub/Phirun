@@ -3,4 +3,8 @@ Changes 1
 Changes 2
 Changes in Staging
 Change in Fork
+<<<<<<< HEAD
 Change in Staging1
+=======
+Changes in Master1
+>>>>>>> master
