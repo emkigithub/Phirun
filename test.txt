@@ -1,6 +1,2 @@
 Line1
-<<<<<<< HEAD
 Line3
-=======
-Line2
->>>>>>> staging
